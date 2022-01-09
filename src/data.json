@@ -1,0 +1,28 @@
+{
+  "task1to3": {
+    "text": "Please see the instructions.pdf file ABC.",
+    "image": "banner.jpg"
+  },
+  "task4to6": [
+    {
+      "text": "Test tewst testt test test test Test tewst testt test test test",
+      "image": "banner.jpg"
+    },
+    {
+      "text": "Test tewst testt test test testTest tewst testt test test test",
+      "image": "test1.jpg"
+    },
+    {
+      "text": "Image 3",
+      "image": "banner.jpg"
+    },
+    {
+      "text": "Image 4",
+      "image": "banner.jpg"
+    },
+    {
+      "text": "Image 5",
+      "image": "banner.jpg"
+    }
+  ]
+}
